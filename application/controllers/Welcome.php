@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-use chriskacerguis\RestServer\RestController;
+
 
 class Welcome extends CI_Controller
 {
